@@ -5,7 +5,7 @@ This is a demonstration of calculating Laguerre polynomials in MATLAB. We use as
 - View output of demo script at [https://raw.githack.com/smithjj/laguerre_polynomials_matlab/main/l_poly_comp.html](https://raw.githack.com/smithjj/laguerre_polynomials_matlab/main/l_poly_comp.html)
 
 ### MATLAB source files (published as HTML)
-- [View l_poly_comp_norun.html](https://raw.githack.com/smithjj/laguerre_polynomials_matlab/main/l_poly_comp_norun.html)
+- [View l_poly_comp_nooutput.html](https://raw.githack.com/smithjj/laguerre_polynomials_matlab/main/l_poly_comp_nooutput.html)
 - [View L_poly_lookup.html](https://raw.githack.com/smithjj/laguerre_polynomials_matlab/main/L_poly_lookup.html)
 - [View L_poly_ours.html](https://raw.githack.com/smithjj/laguerre_polynomials_matlab/main/L_poly_ours.html)
 - [View L_poly_wiki.html](https://raw.githack.com/smithjj/laguerre_polynomials_matlab/main/L_poly_wiki.html)
